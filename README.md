@@ -1,1 +1,1 @@
-# Neuromatch-DL
+# Neuromatch Academy - Deep learning
